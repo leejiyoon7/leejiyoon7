@@ -8,6 +8,8 @@
 ### Python  
 ### Java  
 ### Git  
+Git을 활용한 소스코드 버전 관리 및 협업 가능  
+Github를 사용하여 프로젝트 관리 경험 존재  
 ### Machine Learning  
   
 ## 📚 자격증  
