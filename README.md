@@ -11,6 +11,7 @@
 Git을 활용한 소스코드 버전 관리 및 협업 가능  
 Github를 사용하여 프로젝트 관리 경험 존재  
 ### Machine Learning  
+### Data Quality Management  
   
 ## 📚 자격증  
 **자동차운전면허 2종보통** - 서울지방경찰청(2016)  
