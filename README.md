@@ -5,13 +5,16 @@
 [2021.06 ~ 현재] (주)비투엔 데이터 품질관리 인턴 재직 중  
   
 ## 💻 Stack  
-Python, Java, Git, Machine Learning  
+### Python  
+### Java  
+### Git  
+### Machine Learning  
   
 ## 📚 자격증  
-자동차운전면허 2종보통 - 서울지방경찰청  
-리눅스 마스터 2급 - 한국정보통신진흥협회(2020.07.03)  
-SQL개발자 (SQLD) - 한국데이터산업진흥원(2020.12.29)  
-정보처리기사(실기 취득 중) - 한국산업인력공단(2021)  
+**자동차운전면허 2종보통** - 서울지방경찰청  
+**리눅스 마스터 2급** - 한국정보통신진흥협회(2020.07.03)  
+**SQL개발자 (SQLD)** - 한국데이터산업진흥원(2020.12.29)  
+**정보처리기사**(실기 취득 중) - 한국산업인력공단(2021)  
   
 ## 📈 My Git Level
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejiyoon7&show_icons=true&theme=buefy)  
